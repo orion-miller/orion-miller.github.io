@@ -1,7 +1,10 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm a b hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+layout: default
+title: "Home"
+---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
