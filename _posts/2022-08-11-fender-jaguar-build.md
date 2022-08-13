@@ -18,12 +18,14 @@ The body and neck were both new and unfinished reproduction parts. They needed p
 
 ![1](/assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933_1012.png)
 *Mocking up parts on body and painted body with brass grounding plates*
+
 ![2](/assets/images/2022-08-11-fender-jaguar-build/IMG_20141009_125347.jpg)
 *Applying decal after finishing headstock color coat*
 ## Wiring up Circuits
 
-![Wiring_Diagram](/assets/images/2022-08-11-fender-jaguar-build/323c149e3c21db45b7ce6978ebe8c0f8.png)
-*Original wiring diagram*
+| ![Wiring_Diagram](/assets/images/2022-08-11-fender-jaguar-build/323c149e3c21db45b7ce6978ebe8c0f8.png) | 
+|:--:| 
+| *Original wiring diagram* |
 
 From an electrical perspective the Jaguar is quite interesting. As far as guitars go, this circuit is quite complicated. Leo Fender originally intended for the Jaguar to be the top-of-the-line guitar for his product line. The Jaguar was designed with dual circuits for lead and rhythm. The idea here is to allow for the user to have two separate tones that can be dialled in on their own dedicated controls, which the player can readily change between with the flip of a switch. The rhythm circuit is connected to the neck pickup only for bassy, warmer tones and is controlled by the switch and two thumbwheels on the upper control plate. The lead circuit switches are housed in a plate on the pick guard. It contains on-off switches for each pickup, and the so-called "strangle switch" which cuts bass from the signal via a capacitor. This is in contrast to how capacitors are usually used to control tone on a guitar. Typically they are attached to the tone pot, where as the resistance changes as the wiper is swept, high frequency content runs through the capacitor and to ground, making the main output signal sound darker. This switch also contributes to the unique and recognizable sound of this guitar - having lots of attach but somewhat thin and low sustain. Other factors at play here are the low scale length (24" from nut to bridge, where most other common guitars use 25.5" or 24.75") and low break angle for the bridge. A low break angle makes the strings less rigidly held against the bridge saddles, reducing sustain. 
 Other notable features for the electronics include brass shielding plates, and shielding "claws" for the pickups that come as standard hardware to reduce the noise and the 60-cycle hum caused by AC power through single coil pickups.

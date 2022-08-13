@@ -38,14 +38,13 @@ This had been sitting in the storage room of a Sauna building for a very long ti
 
 Like the other Sea Flea this boat was very solid. It had no rot and no leaks. It had a dashboard that seemed like it was too long, because it forced the rider to sit too far back to have a good balance and took more space away from the cockpit than necessary. So the old dashboard was pulled off, the boat was sanded, and new fibreglass tape was added to seal the seams.
 
-| ![](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130520_0717.png) | 
-|:--:| 
-| *Repainting* |
+![](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130520_0717.png)  
+*Repainting*
 
 The new blue and white paint scheme came out well. It had a 1967 20 hp Mercury hooked up to it that also came with the boat. These old motors run great and don't weigh as much as the newer 4 strokes so I've since picked up a couple more of them. This is still my main boat that I use when up at the family cottage.
 
 ![](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130801_231322c.jpg)
-
+*Reassembled with motor, controls and new dash built*
 
 
 
