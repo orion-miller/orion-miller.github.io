@@ -26,6 +26,7 @@ The paint came out well, and with a 9.9 Johnson on the back was a lot of fun to 
 ## 1950-60's Wooden Race Boat - 11 ft
 
 ![5](/assets/images/2022-08-12-mini-wooden-boat-restoration/DSC02543_0520.png)
+<p style="text-align: center;">*After sanding and adding new fibreglass*</p>
 
 This boat I got shortly after the Sea Flea above. It had actually been in our extended family since the 70's and belonged to my Great Uncle. We weren't sure what plans it might have been based off or when it was built, but it was well used already when it came into the family.
 
