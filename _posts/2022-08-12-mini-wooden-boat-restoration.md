@@ -32,10 +32,13 @@ This boat I got shortly after the Sea Flea above. It had actually been in our ex
 This had been sitting in the storage room of a Sauna building for a very long time. My uncle had been thinking of burning it because it had been in storage for so long with nobody interested in it, so he was happy to give it to me to work on.
 
 ![6](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130710_191915.jpg)
+*After sanding and adding new fibreglass*
 
 Like the other Sea Flea this boat was very solid. It had no rot and no leaks. It had a dashboard that seemed like it was too long, because it forced the rider to sit too far back to have a good balance and took more space away from the cockpit than necessary. So the old dashboard was pulled off, the boat was sanded, and new fibreglass tape was added to seal the seams.
 
-![7](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130520_0717.png)
+| ![7](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130520_0717.png) | 
+|:--:| 
+| *Repainting* |
 
 The new blue and white paint scheme came out well. It had a 1967 20 hp Mercury hooked up to it that also came with the boat. These old motors run great and don't weigh as much as the newer 4 strokes so I've since picked up a couple more of them. This is still my main boat that I use when up at the family cottage.
 

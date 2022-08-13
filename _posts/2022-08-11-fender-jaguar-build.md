@@ -30,7 +30,6 @@ Other notable features for the electronics include brass shielding plates, and s
 Overall the build was a success. I ordered parts during summer of 2014 and did the build through September 2014. I played the guitar for some high school stage band performances and still have it today. I have made some improvements since the original build. I found a vintage Fender neck from 1968 with some ugly old paint job which I bought for the shockingly low price of $150 (this is cheap for any neck, but 1960's Fender parts generally sell for many times more than modern reproductions). 
 
 ![4](/assets/images/2022-08-11-fender-jaguar-build/IMG_20191102_162559_23.png)
-![5](/assets/images/2022-08-11-fender-jaguar-build/IMG_20191102_173633.jpg)
 
 With some very careful sanding, and scraping off clearcoat from the fretboard with an x-acto knife, I was able to remove all the old finish with minimal removal of the original wood. I've also replaced the bridge with a real Fender Mustang bridge from the 60's, made a wiring modification to add a setting for both pickups in series, and sprayed a new paint job on the body and vintage neck.
 
