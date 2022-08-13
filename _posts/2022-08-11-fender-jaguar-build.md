@@ -16,8 +16,8 @@ The first part I ordered was a pair of knobs for the volume and tone control. A 
 
 The body and neck were both new and unfinished reproduction parts. They needed paint, and lacquer! I was a frequent browser of the [OffsetGuitars](https://offsetguitars.com/forums/) forum, dedicated to offset guitar models like the Fender Jaguar and Jazzmaster. I would browse through pictures of old vintage guitars and knew all the different custom colors they were produced in. My favorite was Ice Blue Metallic. I had some paint mixed up at a auto body supply shop from the original Dupont paint code 4692L. The finish didn't come out as well as a factory paint job - I wasn't patient enough with the sanding because I wanted to get it done and play it (I've since refinished it with a more careful job).
 
-![1](/assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933.jpg)
-![2](/assets/images/2022-08-11-fender-jaguar-build/IMG_20141012_163724.jpg)
+![1](/assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933_1012.png)
+![2](/assets/images/2022-08-11-fender-jaguar-build/IMG_20141009_125347.jpg)
 ## Wiring up Circuits
 
 ![Wiring_Diagram](/assets/images/2022-08-11-fender-jaguar-build/323c149e3c21db45b7ce6978ebe8c0f8.png)
@@ -27,9 +27,14 @@ Other notable features for the electronics include brass shielding plates, and s
 
 ![3](/assets/images/2022-08-11-fender-jaguar-build/IMG_0191_2.jpg)
 
-Overall the build was a success. I ordered parts during summer of 2014 and did the build through September 2014. I played the guitar for some high school stage band performances and still have it today. I have made some improvements since the original build. I found a vintage Fender neck from 1968 with some ugly old paint job which I bought for the shockingly low price of $150 (this is cheap for any neck, but 1960's Fender parts generally sell for many times more than modern reproductions). With some very careful sanding, and scraping off clearcoat from the fretboard with an x-acto knife, I was able to remove all the old finish with minimal removal of the original wood. I've also replaced the bridge with a real Fender Mustang bridge from the 60's, made a wiring modification to add a setting for both pickups in series, and sprayed a new paint job on the body and vintage neck.
+Overall the build was a success. I ordered parts during summer of 2014 and did the build through September 2014. I played the guitar for some high school stage band performances and still have it today. I have made some improvements since the original build. I found a vintage Fender neck from 1968 with some ugly old paint job which I bought for the shockingly low price of $150 (this is cheap for any neck, but 1960's Fender parts generally sell for many times more than modern reproductions). 
 
-![4](/assets/images/2022-08-11-fender-jaguar-build/DSC_0001_2.JPG)
+![4](/assets/images/2022-08-11-fender-jaguar-build/IMG_20191102_162559_23.png)
+![5](/assets/images/2022-08-11-fender-jaguar-build/IMG_20191102_173633.jpg)
+
+With some very careful sanding, and scraping off clearcoat from the fretboard with an x-acto knife, I was able to remove all the old finish with minimal removal of the original wood. I've also replaced the bridge with a real Fender Mustang bridge from the 60's, made a wiring modification to add a setting for both pickups in series, and sprayed a new paint job on the body and vintage neck.
+
+![6](/assets/images/2022-08-11-fender-jaguar-build/DSC_0001_2.JPG)
 
 
 
