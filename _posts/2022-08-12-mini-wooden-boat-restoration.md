@@ -24,8 +24,13 @@ This one wasn't so pretty to look at but was in solid shape. The paint was flaki
 The paint came out well, and with a 9.9 Johnson on the back was a lot of fun to drive. These can be a little dangerous when they have more power, because the lack of any real stabilizing geometry on the underside of the hull allows them to hydroplane and skip across the water when driven aggressively, and there is generally not much of the boat actually contacting the water.
 ## 1950-60's Wooden Race Boat - 11 ft
 
-![5](/assets/images/2022-08-12-mini-wooden-boat-restoration/DSC02543_0520.png)
-<p style="text-align: center;">*After sanding and adding new fibreglass*</p>
+<div style="text-align: center;">
+![5](/assets/images/2022-08-12-mini-wooden-boat-restoration/DSC02543_0520.png "Our logo")
+</div>
+
+{::comment}
+<p style="text-align: center;">After sanding and adding new fibreglass</p>
+{:/comment}
 
 This boat I got shortly after the Sea Flea above. It had actually been in our extended family since the 70's and belonged to my Great Uncle. We weren't sure what plans it might have been based off or when it was built, but it was well used already when it came into the family.
 
