@@ -25,7 +25,9 @@ The paint came out well, and with a 9.9 Johnson on the back was a lot of fun to 
 ## 1950-60's Wooden Race Boat - 11 ft
 
 <div style="text-align: center;">
-![5](/assets/images/2022-08-12-mini-wooden-boat-restoration/DSC02543_0520.png "Our logo")
+
+![5](/assets/images/2022-08-12-mini-wooden-boat-restoration/DSC02543_0520.png)
+
 </div>
 
 {::comment}
