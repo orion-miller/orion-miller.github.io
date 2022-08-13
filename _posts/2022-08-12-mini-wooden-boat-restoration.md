@@ -19,8 +19,7 @@ This was a barn find that had been sitting for a couple decades. These "Mini Max
 This one wasn't so pretty to look at but was in solid shape. The paint was flaking badly so it had to be sanded down to the wood in some areas. After the thorough sanding and some fibreglass work it was ready for paint.
 
 ![2](/assets/images/2022-08-12-mini-wooden-boat-restoration/IMAG0217.jpg)
-![3](/assets/images/2022-08-12-mini-wooden-boat-restoration/100_2406.JPG)
-![4](/assets/images/2022-08-12-mini-wooden-boat-restoration/100_2408.JPG)
+![3](/assets/images/2022-08-12-mini-wooden-boat-restoration/100_2406_2408.JPG)
 
 The paint came out well, and with a 9.9 Johnson on the back was a lot of fun to drive. These can be a little dangerous when they have more power, because the lack of any real stabilizing geometry on the underside of the hull allows them to hydroplane and skip across the water when driven aggressively, and there is generally not much of the boat actually contacting the water.
 ## 1950-60's Wooden Race Boat - 11 ft
