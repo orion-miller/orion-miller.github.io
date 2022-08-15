@@ -1,0 +1,37 @@
+---
+title:  "Guitar Electronics Work"
+mathjax: true
+layout: post
+categories: media
+---
+
+{::comment}
+Test
+{:/comment}
+
+Some examples of electronics work I've done on guitars, pedals, and amps.
+
+## 1990 Godin Artisan St
+![](/assets/images/2022-08-14-guitar-electronics-work/IMG_0247_294.png)
+*Replacing broken pickups*
+
+## Arion SAD-1 Analog Delay Pedal
+![](/assets/images/IMG_0638_2.png)
+*Replacing main MN3205 delay chip and potentiometers*
+
+## Ibanez Wh-10 Wah Pedal
+![](/assets/images/2022-08-14-guitar-electronics-work/DSC_02422.png)
+*Replaced 50/500k dual pot and milled out broken plastic mounting bracket, machined new aluminum bracket*
+
+## Custom Pedal Board
+![](/assets/images/2022-08-14-guitar-electronics-work/DSC_0045.JPG)
+*Custom wooden pedal board*
+
+## Marshall 8100 Amp
+![](/assets/images/2022-08-14-guitar-electronics-work/IMG_0221_2.png)
+*Replacing pre-amp tube, faulty input jack, and cleaning scratchy pots*
+
+
+
+
+
