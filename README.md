@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## About
 
 I'm a Mechanical Engineer currently working as a Tire Engineer in NASCAR. My work focuses on lab tire testing, NASCAR track testing, DiL Simulation with NASCAR drivers, Data Analysis, Mathematical Modeling, and Software Development. 
 
