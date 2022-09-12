@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog"
+title: "Posts"
 ---
 
 {% if site.show_excerpts %}
