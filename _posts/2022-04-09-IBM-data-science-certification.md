@@ -1,11 +1,4 @@
----
-title:  "IBM Data Science Professional Certification"
-mathjax: true
-layout: post
-categories: media
----
-
-[GitHub Repo](https://github.com/orion-miller/IBM-Data-Science)
+# IBM Data Science Professional Certification
 
 My experience doing tire engineering at Pratt Miller found me doing heavy data analysis of tire test data and mathematical modeling of tire behavior. I had a co-worker who had a very strong data science background who made interesting use of Python to represent information. I wanted to learn about more about data analysis through some formal instruction, and more about Python, because I used primarily MATLAB but was interested in Python's functionality and open source environment.
 
