@@ -7,7 +7,7 @@ categories: media
 
 This was a recent small freelance job. The requirement was to analyze some vehicle position data from an urban area for Vehicle-to-Vehicle (V2V) communication. Some background on V2V Communication can be found [here](https://www.techtarget.com/iotagenda/definition/vehicle-to-vehicle-communication-V2V-communication). The analysis was done in MATLAB.
 
-The client was interested in the relationship of RSSI (a common measure of signal strength) vs vehicle distance to investigate the threshold within which the signal can be considered reliable. A significant drop in RSSI is seen around 125 m where there is a lack of data.
+The client was interested in the relationship of RSSI (a common measure of signal strength) vs vehicle distance to investigate the threshold within which the signal can be considered reliable. A smoothened version of the signal is made using a Savitzsky-Golay filter. A significant drop in RSSI is seen around 125 m where there is a lack of data.
 
 ![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.png)
 *Received Signal Strength Indicator vs. Distance & Standard Deviation vs. Distance*
