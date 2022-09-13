@@ -1,5 +1,5 @@
 ---
-title:  "Intelligent Bolt Sorter (University Design Project)"
+title:  "Intelligent Bolt Sorter - University Design Project"
 mathjax: true
 layout: post
 categories: media

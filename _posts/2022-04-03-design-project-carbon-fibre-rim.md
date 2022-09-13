@@ -1,5 +1,5 @@
 ---
-title:  "Carbon Fiber Rim (University Design Project)"
+title:  "Carbon Fiber Rim - University Design Project"
 mathjax: true
 layout: post
 categories: media
@@ -15,7 +15,7 @@ My responsibilities included:
 • Design of the carbon wheel profile and mold assembly  
 • Manufacturing of the mold assembly using manual and CNC mills
 
-![Poster](assets/images/Poster.png)
+![Poster](assets/images/2022-04-03-design-project-carbon-fibre-rim/Poster.png)
 
-![Poster](assets/images/598_677.png)
+![Poster](assets/images/2022-04-03-design-project-carbon-fibre-rim/598_677.png)
 
