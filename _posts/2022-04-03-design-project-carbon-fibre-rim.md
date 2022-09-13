@@ -1,4 +1,12 @@
-# About
+---
+title:  "Carbon Fiber Rim (University Design Project)"
+mathjax: true
+layout: post
+categories: media
+---
+
+[GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Carbon_Fiber_Rim)
+
 This was a year-long Senior Capstone Design Project. The group developed a lightweight carbon fiber rim design for Formula SAE. The goal of the project was to produce a functional prototype and lay the groundwork for a transition to carbon wheels for future Gryhon Racing entries.   
 
 My responsibilities included:  
@@ -7,7 +15,7 @@ My responsibilities included:
 • Design of the carbon wheel profile and mold assembly  
 • Manufacturing of the mold assembly using manual and CNC mills
 
-![Poster](Images%20%26%20Videos/Poster.png)
+![Poster](assets/images/Poster.png)
 
-![Poster](Images%20%26%20Videos/Build/598_677.png)
+![Poster](assets/images/598_677.png)
 
