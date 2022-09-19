@@ -1,5 +1,5 @@
 ---
-title:  "Kinder Egg Toy - University Design Project"
+title:  "Residential Solar Design - University Design Project"
 mathjax: true
 layout: post
 categories: media
