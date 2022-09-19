@@ -11,4 +11,4 @@ This was a past group project. The course requirements were to design a 3D print
 
 The goal of the group was to create a space shuttle style vehicle with the largest total size of the competition. My focus was the design and CAD of the device.
   
-![Test](assets/images/2022-04-03-design-project-kinder-egg-toy/DSC_4422.JPG)
+![Test](assets/images/2022-04-03-design-project-kinder-egg-toy/DSC_4422.jpg)
