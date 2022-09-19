@@ -3,6 +3,7 @@ title:  "Shock Dynomometer - University Design Project"
 mathjax: true
 layout: post
 categories: media
+tags: show-&-tell mechanical electrical automotive hands-on data-analysis
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Shock_Dynomometer)
