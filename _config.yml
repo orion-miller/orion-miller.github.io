@@ -3,7 +3,7 @@ author: "Orion Miller"
 description: "© 2022 Orion Miller"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!-- excerpt-end -->"
 date_format: "%B %d, %Y"
 
 # Layout
