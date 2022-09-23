@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 tags: show-&-tell mechanical electrical automotive hands-on data-analysis
-excerpt: "![Test](assets\images\2022-04-03-design-project-shock-dynomometer\571_574.png)"
+excerpt_img_url: "assets\images\2022-04-03-design-project-shock-dynomometer\571_574.png"
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Shock_Dynomometer)
