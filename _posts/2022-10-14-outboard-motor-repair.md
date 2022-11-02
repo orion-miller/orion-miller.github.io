@@ -30,7 +30,7 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 *Cleaning ignition points* -->
 
 ## 1976 Evinrude 20 HP
-![](/assets/images/2022-08-14-guitar-electronics-work/DSC_0216.JPG)
+![](/assets/images/2022-10-14-outboard-motor-repair/DSC_0216.JPG)
 *Machined aluminum replacement transom handle*
 
 
