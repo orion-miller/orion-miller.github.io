@@ -11,9 +11,7 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 ![](/assets/images/2022-10-14-outboard-motor-repair/6_hp_fuelpump.png)
 *Replacing fuel pump diaphragm and hose*
 
-<!-- excerpt-start -->
 ![](/assets/images/2022-10-14-outboard-motor-repair/6hp_stopswitch.png)
-<!-- excerpt-end -->
 *Rewiring deteriorated stop switch circuit*
 
 ## 1979 Mercury 20 HP
@@ -31,6 +29,9 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 <!-- ![](/assets/images/2022-10-14-outboard-motor-repair/IMG_0638_2.png)
 *Cleaning ignition points* -->
 
+<!-- excerpt-start -->
+Here is a bunch of text that I am using as a test to see if it gets picked up properly, as currently testing with an image that does not. Here is a bunch of text that I am using as a test to see if it gets picked up properly, as currently testing with an image that does not.
+<!-- excerpt-end -->
 ## 1976 Evinrude 20 HP
 ![](/assets/images/2022-10-14-outboard-motor-repair/DSC_0216.JPG)
 *Machined aluminum replacement transom handle*
