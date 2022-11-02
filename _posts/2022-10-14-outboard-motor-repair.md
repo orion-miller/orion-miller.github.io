@@ -13,8 +13,9 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 
 <!-- excerpt-start -->
 ![](/assets/images/2022-10-14-outboard-motor-repair/6hp_stopswitch.png)
-*Rewiring deteriorated stop switch circuit*
 <!-- excerpt-end -->
+*Rewiring deteriorated stop switch circuit*
+
 ## 1979 Mercury 20 HP
 ![](/assets/images/2022-10-14-outboard-motor-repair/79_mercarb.png)
 *Rebuilding carburetor assembly*
