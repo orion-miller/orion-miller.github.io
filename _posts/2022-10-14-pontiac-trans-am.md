@@ -7,13 +7,13 @@ categories: media
 
 I bought this car in July 2021 in Atlanta. These Trans Ams were always my favorite cars growing up when one just like this was in my neighbourhood. This car had been sitting a long time but was very clean and completely stock. Wanting to keep the car original no real modifications have been made, mostly just maintenance/repairs.
 
-![](/assets/images/2022-08-14-guitar-electronics-work/IMG_0247_294.png)
+![](/assets/images/2022-10-14-pontiac-trans-am/headlights.png)
+*Replacing headlights with LED retrofits and headlight motor gears*
+
+![](/assets/images/2022-10-14-pontiac-trans-am/DSC_0298_300.png)
 *Replacing speakers*
 
-![](/assets/images/2022-08-14-guitar-electronics-work/IMG_0638_2.png)
-*Replacing headlight motor gears and headlights with LED retrofits*
-
-![](/assets/images/2022-08-14-guitar-electronics-work/DSC_02422.png)
+![](/assets/images/2022-10-14-pontiac-trans-am/IMG_1185_2.png)
 *Driving car at a PADA autocross event in Oakville Ontario*
 
 
