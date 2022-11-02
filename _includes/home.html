@@ -2,7 +2,7 @@
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
-    {% include meta.html post=post preview=true %}
+    <!-- {% include meta.html post=post preview=true %} -->
     {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
     {{ excerptParts[1] }}
     <!-- {{ excerptParts[1] | strip_newlines | truncatewords: 50 }} -->
