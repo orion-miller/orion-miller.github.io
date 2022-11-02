@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Bio.md"}
+  - {file: "About.md"}
   - {file: "index.html"}
   - {url: "/20220409_Resume_Orion_Miller.pdf", title: CV}  
 

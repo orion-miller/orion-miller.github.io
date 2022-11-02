@@ -9,7 +9,7 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 
 ## 1968 Mercury 6 HP
 ![](/assets/images/2022-10-14-outboard-motor-repair/6_hp_fuelpump.png)
-*Replacing fuel pump diaphragm*
+*Replacing fuel pump diaphragm and hose*
 
 ![](/assets/images/2022-10-14-outboard-motor-repair/6hp_stopswitch.png)
 *Rewiring deteriorated stop switch circuit*
