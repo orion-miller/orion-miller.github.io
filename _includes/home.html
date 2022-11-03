@@ -4,7 +4,7 @@
   <article>
     {% include meta.html post=post preview=true %}
     {% assign excerptParts = post.excerpt | split: "<!-- excerpt-start -->" %}
-    {{ excerptParts[1] }}
+    {{ excerptParts[0] }}
     <!-- {{ post.excerpt }} -->
     <!-- <img src={{ page.excerpt_img_url }} alt="Excerpt Image"> -->
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
