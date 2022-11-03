@@ -3,7 +3,7 @@ title: "Vintage Outboard Motor Repairs"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: "/assets/images/2022-10-14-outboard-motor-repair/73_impeller.png"
+excerpt_img_url: "\assets\images\2022-10-14-outboard-motor-repair\79_mercarb.png"
 ---
 
 Some examples of repair work I've done on vintage Mercury outboard motors. After having an old Mercury 20 HP on my boat that stopped running, I took an interest in learning to fix them.
@@ -29,10 +29,6 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 
 <!-- ![](/assets/images/2022-10-14-outboard-motor-repair/IMG_0638_2.png)
 *Cleaning ignition points* -->
-
-<!-- excerpt-start -->
-Here is a bunch of text that I am using as a test to see if it gets picked up properly, as currently testing with an image that does not. Here is a bunch of text that I am using as a test to see if it gets picked up properly, as currently testing with an image that does not.
-<!-- excerpt-end -->
 ## 1976 Evinrude 20 HP
 ![](/assets/images/2022-10-14-outboard-motor-repair/DSC_0216.JPG)
 *Machined aluminum replacement transom handle*
