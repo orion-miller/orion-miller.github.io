@@ -3,7 +3,7 @@ title: "Vintage Outboard Motor Repairs"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: /assets/images/2022-10-14-outboard-motor-repair/79_mercarb.png
+excerpt_img_url: "../assets/images/2022-10-14-outboard-motor-repair/79_mercarb.png"
 ---
 
 Some examples of repair work I've done on vintage Mercury outboard motors. After having an old Mercury 20 HP on my boat that stopped running, I took an interest in learning to fix them.
