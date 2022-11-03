@@ -23,12 +23,6 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 ![](/assets/images/2022-10-14-outboard-motor-repair/73_impeller.png)
 *Replacing water pump impeller*
 
-<!-- ## 1969 Mercury 35 HP
-![](/assets/images/2022-10-14-outboard-motor-repair/IMG_0638_2.png)
-*Repainting lower unit* -->
-
-<!-- ![](/assets/images/2022-10-14-outboard-motor-repair/IMG_0638_2.png)
-*Cleaning ignition points* -->
 ## 1976 Evinrude 20 HP
 ![](/assets/images/2022-10-14-outboard-motor-repair/DSC_0216.JPG)
 *Machined aluminum replacement transom handle*
