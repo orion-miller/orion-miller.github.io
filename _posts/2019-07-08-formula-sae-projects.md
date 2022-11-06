@@ -1,5 +1,5 @@
 ---
-title:  "Formula SAE Projects"
+title:  "Gryphon Racing Formula SAE Projects"
 mathjax: true
 layout: post
 categories: media
