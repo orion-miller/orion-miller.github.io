@@ -1,0 +1,3 @@
+Below for the baseline run through a left turn, we can see that the front right tire is lifting fully off the ground mid-corner (there is no FZ channel in the data but FY is clearly flatlining to 0). The fronts are also generating more slip angle with wheel, so both of these indicated the car needed to be freed up.
+
+With lots of trial and error in the Chassis Sim program adjusting spring rates, front view suspension geometry, static cambers, etc, a sizeable gain in speed was found. Below with the white trace for the final setup, significant time is being made up in this segment through some low speed turns.
