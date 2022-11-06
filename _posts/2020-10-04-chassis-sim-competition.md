@@ -1,5 +1,5 @@
 ---
-title:  "Chassis Sim 2020 Online Race Engineering Competition"
+title:  "ChassisSim 2020 Online Race Engineering Competition"
 mathjax: true
 layout: post
 categories: media
@@ -62,12 +62,12 @@ For the traction circle plot we see a pretty broad, forgiving combined curve sha
 
 ## Simulation
 
-Below for the baseline run through a left turn, we can see that the front right tire is lifting fully off the ground mid-corner (there is no FZ channel in the data but FY is clearly flatlining to 0). The fronts are also generating more slip angle with wheel, so both of these indicated the car needed to be freed up.
+Lap simulation results were generated through the ChassisSim program, with a maximum limit of 100 runs to finalize the vehicle setup. Below for the baseline run through a left turn, we can see that the front right tire is lifting fully off the ground mid-corner (there is no FZ channel in the data but FY is clearly flatlining to 0). The fronts are also generating more slip angle with wheel, so both of these indicated the car needed to be freed up.
 
 
 ![2](/assets/images/2020-10-04-chassis-sim-competition/Data1.png)
 
-With lots of trial and error in the Chassis Sim program adjusting spring rates, front view suspension geometry, static cambers, etc, a sizeable gain in speed was found. Below with the white trace for the final setup, significant time is being made up in this segment through some low speed turns.
+With lots of trial and error in the ChassisSim program adjusting spring rates, front view suspension geometry, static cambers, etc, a sizeable gain in speed was found. Below with the white trace for the final setup, significant time is being made up in this segment through some low speed turns.
 
 
 ![3](/assets/images/2020-10-04-chassis-sim-competition/Data2.png)
