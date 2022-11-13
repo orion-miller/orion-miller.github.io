@@ -26,7 +26,7 @@ external:                  # shows social links - for available icons see fontaw
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/orionmmiller/"}
 
 comments:
- - disqus_shortname: "http://disqus.com/by/disqus_mJDu2WCi5E"    # see https://disqus.com/
+ - disqus_shortname: "orionmiller"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 # --- Colours / background image --- #
