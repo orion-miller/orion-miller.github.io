@@ -1,4 +1,4 @@
-title: "ORION MILLER"
+title: "Orion Miller"
 author: "Orion Miller"
 description: "© 2022 Orion Miller"
 permalink: /:title/
@@ -7,27 +7,26 @@ excerpt_separator: <!-- excerpt-end -->
 date_format: "%B %d, %Y"
 
 # Layout
-
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
-# Menu
-
+# Nav Bar Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md"}
   - {file: "index.html"}
   # - {file: "index.html"}
   - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV}  
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+# Footer
+external:                  # shows social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:orion.miller@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/orion-miller"}
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/orionmmiller/"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
+ - disqus_shortname: "http://disqus.com/by/disqus_mJDu2WCi5E"    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 # --- Colours / background image --- #
