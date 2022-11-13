@@ -17,7 +17,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md"}
   - {file: "index.html"}
   # - {file: "index.html"}
-  - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV}  
+  - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download}  
+  - {file: "/_includes/embedCV.html"}  
 
 # Footer
 external:                  # shows social links - for available icons see fontawesome.com/icons
