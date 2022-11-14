@@ -16,7 +16,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md"}
   - {file: "index.html"} 
-  - {title: "CV", file: "assets/resume_cv/embedCV.html"}  
+  - {file: "CV.md"}
+  # - {title: "CV", file: "assets/resume_cv/embedCV.html"}  
   # - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download} 
 
 # Footer
