@@ -5,11 +5,11 @@ layout: default
 <article>
   {% include meta.html post=page %}
   {{ content }}
-  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+  {% if page.comments != false %}
     <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
+    <!-- {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %} -->
     <!-- {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %} -->
-    {% if site.comments.disqus_shortname %}
+
     <div id="disqus_thread"></div>
     <script>
         /**
@@ -29,7 +29,6 @@ layout: default
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>    
-    <noscript>Please enable JavaScript to view comments.</noscript>
-    {% endif %}
+
   {% endif %}
 </article>
