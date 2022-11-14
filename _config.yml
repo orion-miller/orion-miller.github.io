@@ -10,15 +10,14 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Nav Bar Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md"}
-  - {file: "index.html"}
-  # - {file: "index.html"}
-  - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download}  
-  - {title: "CV", file: "/assets/resume_cv/embedCV.html"}  
+  - {file: "index.html"} 
+  - {title: "CV", file: "assets/resume_cv/embedCV.html"}  
+  # - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download} 
 
 # Footer
 external:                  # shows social links - for available icons see fontawesome.com/icons
