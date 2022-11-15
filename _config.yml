@@ -14,9 +14,9 @@ minimal: false             # use a dark header
 
 # Nav Bar Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "About.md"}
   - {file: "index.html"} 
-  - {file: "CV.md"}
+  - {file: "About.md"}  
+  - {file: "CV.md", title: "CV"}
   # - {title: "CV", file: "assets/resume_cv/embedCV.html"}  
   # - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download} 
 
