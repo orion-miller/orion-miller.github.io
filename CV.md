@@ -1,6 +1,5 @@
 ---
-title: "CV"
-permalink: "/CV/"
+permalink: "/cv/"
 layout: page
 ---
 
