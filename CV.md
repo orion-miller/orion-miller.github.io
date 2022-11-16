@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: "/cv/"
 layout: page
 ---
