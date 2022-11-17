@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"} 
   - {file: "About.md"}  
-  - {url: "https://orion-miller.github.io/CV/", title: "CV"}  
+  - {url: "https://orion-miller.github.io/CV/", title: "CV"} #have no ideas why this works at right size, and not the "cv" dir created by CV.md 
   # - {file: CV.md", title: "CV"} https://orion-miller.github.io/CV/
   # - {title: "CV", file: "assets/resume_cv/embedCV.html"}  
   # - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download} 
