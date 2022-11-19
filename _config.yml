@@ -16,8 +16,8 @@ paginate: 10 # number of items per page in Posts section
 
 # Nav Bar Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "About.md"} 
   - {file: "index.html"} 
-  - {file: "About.md"}  
   # - {url: "https://orion-miller.github.io/cv/", title: "CV"} #dir created by embedCV.html in assets/resume_cv
   - {title: "CV", file: "embedCV.html"}  
   - {title: "Footprints", file: "footprints.html"}
