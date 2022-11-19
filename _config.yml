@@ -1,6 +1,6 @@
-title: "Orion Miller"
-author: "Orion Miller"
-description: "© 2022 Orion Miller"
+title: "Orion Miller" #tab title
+author: "Orion Miller" #name appearing at top of header
+description: "© 2022 Orion Miller" #text for footer
 permalink: /:title/
 lang: "en"
 excerpt_separator: <!-- excerpt-end -->
@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "About.md"}  
   # - {url: "https://orion-miller.github.io/cv/", title: "CV"} #dir created by embedCV.html in assets/resume_cv
   - {title: "CV", file: "embedCV.html"}  
+  - {title: "Footprints", file: "footprints.html"}
   # - {url: "assets/resume_cv/20220409_Resume_Orion_Miller.pdf", title: CV Download} 
 
 # Footer
