@@ -16,8 +16,7 @@ This was a competition to optimize simulated lap time and drivability of a LMP2 
 
 Part of the data provided to us was a text file with some basic tire trends. Investigating these was a good starting point to gain a little insight for improving the baseline car setup. Some quick plots are made in Python below:
 
-{% highlight python linenos %}
-
+    {% highlight python linenos %}
     import os
     import pandas as pd
     import plotly.express as px
@@ -51,8 +50,7 @@ Part of the data provided to us was a text file with some basic tire trends. Inv
 
     fig_Friction_Circle = px.line(df_Friction_Circle,x='Fy (kgf)',y='Fx (kgf)',template="plotly_dark",title="Traction Circle",width=600, height=400)
     fig_Friction_Circle.write_html("fig_Friction_Circle.html", auto_open=True)
-
-{% endhighlight %}
+    {% endhighlight %}
 
 ![1](/assets/images/2020-10-04-chassis-sim-competition/AllPlots.png)
 

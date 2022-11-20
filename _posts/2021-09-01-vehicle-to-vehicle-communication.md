@@ -16,8 +16,7 @@ The client was interested in the relationship of RSSI (a common measure of signa
 
 With input from the client 300 m was chosen as the threshold of interest. The routine below was ran to find the number and ID of cars that were within 300 m for each car in the dataset:
 
-{% highlight matlab linenos %}
-
+    {% highlight matlab linenos %}
     %% DETERMINE DISTANCES
     DistStruct = struct; % Structure to hold calculated distances
 
@@ -63,8 +62,7 @@ With input from the client 300 m was chosen as the threshold of interest. The ro
         DistStruct(iCars).Threshold = Threshold; %Array of which other cars are within 300 m
         DistStruct(iCars).ThresholdNum = ThresholdNum; %Number of total cars within 300 m of this car
     end
-
-{% endhighlight %}
+    {% endhighlight %}
 
 From this analysis further plots were made. First, the distribution for number of vehicles within 300 m, to show how many vehicles are commonly within range.
 
