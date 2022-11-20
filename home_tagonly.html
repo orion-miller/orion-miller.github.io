@@ -1,0 +1,27 @@
+---
+permalink: "/tag-mechanical/"
+layout: default
+title: "Posts - Mechanical"
+---
+
+{% for tag in site.tags %}
+  {% if tag == "mechanical" %}
+  <h2>{{ tag[0] }}</h2>
+
+  {% for post in tag[1] %}
+  <article>
+    {% include meta.html post=post preview=true %}
+    <!-- {{ post.excerpt }} -->
+    <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
+    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+  </article>    
+  {% endif %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+  <footer>
+    {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« Newer Posts</a>{% else %}<span></span>{% endif %}
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older Posts »</a>{% else %}<span></span>{% endif %}
+  </footer>
+{% endif %}
