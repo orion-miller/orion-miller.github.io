@@ -1,18 +1,21 @@
-<article>
-  <div class="more"><a href="https://orion-miller.github.io/tag-mechanical/">mechanical</a></div>
-  <div class="more"><a href="https://orion-miller.github.io/footprints/">Mechanical</a></div>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">electrical</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">Electrical</a></span>
-</article>
+---
+permalink: "/tag-mechanical/"
+layout: default
+title: "Posts - Mechanical"
+---
 
-{%- assign posts = paginator.posts | default: site.posts -%}
-{% for post in posts %}
+{% for tag in site.tags %}
+  {% if tag == "mechanical" %}
+  <h2>{{ tag[0] }}</h2>
+
+  {% for post in tag[1] %}
   <article>
     {% include meta.html post=post preview=true %}
     <!-- {{ post.excerpt }} -->
     <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
+  </article>    
+  {% endif %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
