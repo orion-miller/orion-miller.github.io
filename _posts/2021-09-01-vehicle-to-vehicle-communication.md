@@ -16,6 +16,8 @@ The client was interested in the relationship of RSSI (a common measure of signa
 
 With input from the client 300 m was chosen as the threshold of interest. The routine below was ran to find the number and ID of cars that were within 300 m for each car in the dataset:
 
+{% highlight matlab linenos %}
+
     %% DETERMINE DISTANCES
     DistStruct = struct; % Structure to hold calculated distances
 
@@ -62,19 +64,17 @@ With input from the client 300 m was chosen as the threshold of interest. The ro
         DistStruct(iCars).ThresholdNum = ThresholdNum; %Number of total cars within 300 m of this car
     end
 
-From this analysis further plots were made. First the distribution for number of vehicles within 300 m, to show how many vehicles are commonly within range.
+{% endhighlight %}
+
+From this analysis further plots were made. First, the distribution for number of vehicles within 300 m, to show how many vehicles are commonly within range.
 
 ![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Distribution_of_Vehicles_Within_300m-Histogram.jpg)
 *Histogram Showing Number of Vehicles Within Range*
 
-Second a geographic map with the position of each car colored by how many others are within range. It can be seen that cars in the condensed streets around the middle of the map have the most other cars in range.
+Second, a geographic map with the position of each car colored by how many others are within range. It can be seen that cars in the condensed streets around the middle of the map have the most other cars in range:
 
-![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Vehicle_X-Y_Positions.jpg)
-*Geographic Colormap for Number of Vehicles Within Range*
-
-Code for the colored 2D scatterplot is shown below:
-
-    %-----------------------------------------------------------------------------------------------------% 
+    {% highlight matlab linenos %}
+    %--------------------------------------------------------------------------------% 
     % X-Y PLOT
     %Make X-Y plot of all vehicle positions (not requested but just want to
     %see what the data looks like)
@@ -114,6 +114,13 @@ Code for the colored 2D scatterplot is shown below:
     CB.Label.String = sprintf('Number of Vehicles Within 300 m');
     CB.Label.Interpreter = 'none';
     CB.Color = ForeColor;
+    {% endhighlight %}
+
+![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Vehicle_X-Y_Positions.jpg)
+*Geographic Colormap for Number of Vehicles Within Range*
+
+
+
 
 
 

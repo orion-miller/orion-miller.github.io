@@ -13,6 +13,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 paginate: 10 # number of items per page in Posts section
+highlighter: rouge #code syntax highlighter
 
 # Nav Bar Menu
 navigation:                # accepts {file, title, url, icon, sidebaricon}
