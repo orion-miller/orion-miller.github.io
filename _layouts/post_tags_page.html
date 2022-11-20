@@ -1,22 +1,19 @@
 ---
-permalink: "/tag-mechanical/"
 layout: default
-title: "Posts - Mechanical"
 ---
 
-{% for tag in site.tags %}
-  {% if tag == "mechanical" %}
-  <h2>{{ tag[0] }}</h2>
+<h2>Posts - {{ page.tag }}</h2>
 
-  {% for post in tag[1] %}
-  <article>
-    {% include meta.html post=post preview=true %}
-    <!-- {{ post.excerpt }} -->
+{% for post in site.tags[page.tag] %}
+<article>
+  {% include meta.html post=post preview=true %}
+  {% if post.excerpt_img_url %}  <!--check if an image has been assigned to show, otherwise display regular excerpt-->
     <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>    
+  {% else %}      
+    {{ post.excerpt }}
   {% endif %}
-{% endfor %}
+  <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+</article>    
 
 {% if paginator.total_pages > 1 %}
   <footer>

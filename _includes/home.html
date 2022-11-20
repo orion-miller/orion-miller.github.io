@@ -1,18 +1,18 @@
 <article>
-  <span class="more"><a href="https://orion-miller.github.io/tag-mechanical/">mechanical</a></div>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">automotive</a></div>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">electrical</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">programming</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tag-mechanical/">data-analysis</a></div>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">audio/music</a></div>
-  <span class="more"><a href="https://orion-miller.github.io/footprints/">hands-on</a></span>  
+  <span class="more"><a href="https://orion-miller.github.io/posts-mechanical/">mechanical</a></div>
+  <span class="more"><a href="https://orion-miller.github.io/posts-automotive/">automotive</a></div>
+  <span class="more"><a href="https://orion-miller.github.io/posts-electrical/">electrical</a></span>
+  <span class="more"><a href="https://orion-miller.github.io/posts-programming/">programming</a></span>
+  <span class="more"><a href="https://orion-miller.github.io/posts-data-analysis/">data-analysis</a></div>
+  <span class="more"><a href="https://orion-miller.github.io/posts-audio-music/">audio/music</a></div>
+  <span class="more"><a href="https://orion-miller.github.io/posts-hands-on/">hands-on</a></span>  
 </article>
 
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-     {% if post.excerpt_img_url %}  <!--check if an image has been assigned to show, otherwise display regular excerpt-->
+    {% if post.excerpt_img_url %}  <!--check if an image has been assigned to show, otherwise display regular excerpt-->
       <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
     {% else %}      
       {{ post.excerpt }}
