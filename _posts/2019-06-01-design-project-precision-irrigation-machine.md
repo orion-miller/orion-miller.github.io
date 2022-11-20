@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets\images\2022-04-03-design-project-precision-irrigation-machine\Capture.png
+tags: mechanical electrical programming hands-on
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Precision_Irrigation_Machine)

@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2022-04-09-IBM-data-science-certification/Data_Science_Methodology.png
+tags: programming data-analysis
 ---
 
 [GitHub Repo](https://github.com/orion-miller/IBM-Data-Science)

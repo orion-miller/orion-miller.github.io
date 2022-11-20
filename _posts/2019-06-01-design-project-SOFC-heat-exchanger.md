@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets\images\2022-04-03-design-project-SOFC-heat-exchanger\Iso.jpg
+tags: mechanical automotive
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-SOFC_Heat_Exchanger)

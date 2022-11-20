@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2022-04-03-design-project-carbon-fibre-rim/598_677.png
+tags: mechanical automotive data-analysis hands-on
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Carbon_Fiber_Rim)

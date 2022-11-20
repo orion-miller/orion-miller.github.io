@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2022-08-12-mini-wooden-boat-restoration/IMG_20130710_191915.jpg
+tag: hands-on
 ---
 
 Around 2013 I got into the hobby of working on boats and restored a couple of mini wooden "Sea Fleas". 

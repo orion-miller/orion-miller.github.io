@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2022-04-03-design-project-kinder-egg-toy/DSC_4422.jpg
+tags: mechanical
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Kinder_Egg_Toy)

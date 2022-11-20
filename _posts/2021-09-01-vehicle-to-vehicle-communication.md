@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.png
+tags: automotive programming data-analysis
 ---
 
 This was a recent small freelance job. The requirement was to analyze some vehicle position data from an urban area for Vehicle-to-Vehicle (V2V) communication. Some background on V2V Communication can be found [here](https://www.techtarget.com/iotagenda/definition/vehicle-to-vehicle-communication-V2V-communication). The analysis was done in MATLAB.
