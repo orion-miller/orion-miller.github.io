@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<h2>Posts - {{ page.tag }}</h2>
+<article>
+  <h2><em>Tag: {{ page.tag }}</em></h2>
+  <div class="more"><a href="https://orion-miller.github.io/">« Back</a></div>
+  
+</article>
+
 
 {% for post in site.tags[page.tag] %}
 <article>
