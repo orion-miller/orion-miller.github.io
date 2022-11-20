@@ -13,7 +13,8 @@ layout: default
     {{ post.excerpt }}
   {% endif %}
   <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-</article>    
+</article>  
+{% endfor %}  
 
 {% if paginator.total_pages > 1 %}
   <footer>
