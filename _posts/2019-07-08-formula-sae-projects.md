@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2019-07-08-formula-sae-projects/thumbnail.jpg
-tags: mechanical automotive electrical programming data-analysis hands-on
+tags: mechanical automotive programming data-analysis hands-on
 ---
 
 [GitHub Repo](https://github.com/orion-miller/Gryphon-Racing-Formula-SAE)

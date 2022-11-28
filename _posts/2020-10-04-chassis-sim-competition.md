@@ -5,7 +5,7 @@ layout: post
 categories: media
 excerpt_img_url: http://img.youtube.com/vi/fbP0cnc3VLw/0.jpg 
 comments: true
-tags: automotive data-analysis programming
+tags: automotive data-analysis
 ---
 
 This was a competition to optimize simulated lap time and drivability of a LMP2 car at LeMans by tuning vehicle setup parameters. Some vehicle data was provided for use with Chassis Sim's simulation tools. My submission finished 10th place out of about 150 entries.

@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets\images\2022-04-03-design-project-solar-design\FIG4_5.png
-tags: data-analysis electrical
+tags: data-analysis
 ---
 
 [GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Solar_Design)
