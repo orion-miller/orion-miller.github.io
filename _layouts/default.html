@@ -2,6 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
   <link rel="icon" href="/assets/images/FavIcon/OM_Logo_32_32.ico">
+  {% include analytics.html %}  
 </head>
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title> 
 <meta charset="{{ site.encoding }}">
