@@ -22,6 +22,13 @@ When I became interested in Vehicle Dynamics, the understanding of tires jumped 
 - Tire Testing
 - Role of Tires for Vehicle Dynamics
 
+- Rolling Resistance
+- Transients
+
+
+
+
+
 Note that this will only be valid for the outside wheels on a given corner, as negative camber on the inside wheels tends to hurt grip rather than help it because it adds to the contact path pressure non-uniformity caused by the cornering forces rather than counteracting it.In tire testing things are usually discussed in terms of inclination angle (gamma in the diagram below) because camber, being given relative to the vehicle, is mirrored between the two sides of the car.
 
 ![1](/assets/images/2020-10-04-chassis-sim-competition/Tire-axis-SAE-2406244876.jpg)

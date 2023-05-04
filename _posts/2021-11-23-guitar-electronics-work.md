@@ -17,7 +17,7 @@ Some examples of electronics work I've done on guitars, pedals, and amps.
 ![](/assets/images/2022-08-14-guitar-electronics-work/IMG_0638_2.png)
 *Replacing main MN3205 delay chip and potentiometers*
 
-## Ibanez Wh-10 Wah Pedal
+## Ibanez WH-10 Wah Pedal
 ![](/assets/images/2022-08-14-guitar-electronics-work/DSC_02422.png)
 *Replaced 50/500k dual pot and milled out broken plastic mounting bracket, machined new aluminum bracket*
 
