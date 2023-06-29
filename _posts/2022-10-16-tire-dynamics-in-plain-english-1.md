@@ -33,6 +33,15 @@ Note that this will only be valid for the outside wheels on a given corner, as n
 
 ![1](/assets/images/2020-10-04-chassis-sim-competition/Tire-axis-SAE-2406244876.jpg)
 
+# The Importance of Tire Load Dependence
+
+Different ways load dependence can manifest itself:
+
+Surface roughness
+Camber effects
+Load Transfer
+Suspension movement
+
 
 
 

@@ -3,7 +3,7 @@ title:  "1998 Pontiac Trans Am WS6"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-10-14-pontiac-trans-am/headlights.png
+excerpt_img_url: ../assets/images/2022-10-14-pontiac-trans-am/headlights2.png
 tags: automotive hands-on
 ---
 
