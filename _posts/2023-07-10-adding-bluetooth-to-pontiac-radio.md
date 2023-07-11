@@ -17,9 +17,9 @@ This details how to add a bluetooth transmitter to a Pontiac AC Delco Monsoon ra
 |#|Parts List|
 |-|-----------|
 |1|Bluetooth 5V Receiver Board|
-|2|Small aux cord - 3.5 mm to 3.5mm|
+|2|Small Aux Cord - 3.5 mm to 3.5mm|
 |3|Ground Loop Isolator|
-|4|Small aux cord - 3.5 mm to bare wires|
+|4|Small Aux Cord - 3.5 mm to bare wires|
 |5|USB to Micro-USB Cable|
 |6|USB Car Charger|
 
