@@ -14,7 +14,7 @@ I was interested in this course because I wanted to get some formal instruction 
 ![](/assets/images/2022-11-16-JHU-html-css-javascript/Course_Contents.png)
 *Course Contents*
 
-[GitHub Repo](https://github.com/orion-miller/IBM-Data-Science)
+[GitHub Repo](https://github.com/orion-miller/Johns-Hopkins-WebDev)
 
 
 
