@@ -5,11 +5,13 @@ from PIL import Image
 PNG files are converted to JPG because of lower file, and then will be resized to below 500 KB if still larger than that.
 The string "SKIPPNG" can be used in the filename of any PNG image that the JPG conversion needs to be skipped on for any reason'''
 
+#Find all subfolders under the assets/images directory
 FullFileName = os.path.realpath(__file__)
 WorkingDir = FullFileName.split('utilities')[0]
 ImageDir = WorkingDir + "assets\\images\\"
 ImageFolders = [ f.path for f in os.scandir(ImageDir) if f.is_dir() ]
 
+#Loop thru folders and files, process image files
 for Folder in ImageFolders:
     os.chdir(Folder) #Switch dir to image folder
     for File in os.listdir(Folder):
@@ -19,8 +21,19 @@ for Folder in ImageFolders:
             IMG = Image.open(File) #Read in as png
             IMG = IMG.convert('RGB') #Ensure RGB format
             SaveName = File.split('.png')[0] + ".jpg"  
-            IMG_JPG = IMG.save(SaveName) #Write out as jpg
+            IMG.save(SaveName, optimize=True) #Write out as jpg
+            IMG.close()
+            File = SaveName #Overwrite name of file - to be referenced in next step
             os.remove(File) #Remove the original jpg file
+
+        #Check if file is a JPG, and over 500 KB
+        if File.endswith(".jpg") and os.path.getsize(File) > 500000:   
+            FileSize = os.path.getsize(File)
+            ResizeRatio = 5000000/FileSize
+
+            
+
+
 
     
 
