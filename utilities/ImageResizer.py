@@ -14,12 +14,13 @@ for Folder in ImageFolders:
     os.chdir(Folder) #Switch dir to image folder
     for File in os.listdir(Folder):
         #Check if file is a PNG, not containing the "skip string" SKIPPNG
-        if File.endswith(".png") & File.count('SKIPPNG') == 0:
+        if File.endswith(".png") and File.count('SKIPPNG') == 0:
             #Convert PNG to JPG, delete the original PNG file
             IMG = Image.open(File) #Read in as png
-            # SaveName = Folder + "\\" + File.split('.png')[0] + ".jpg"
+            IMG = IMG.convert('RGB') #Ensure RGB format
             SaveName = File.split('.png')[0] + ".jpg"  
             IMG_JPG = IMG.save(SaveName) #Write out as jpg
+            os.remove(File) #Remove the original jpg file
 
     
 
