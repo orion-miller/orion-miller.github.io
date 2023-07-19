@@ -24,6 +24,7 @@ for Folder in ImageFolders:
             SaveName = File.split('.png')[0] + ".jpg"  
             IMG.save(SaveName, optimize=True, quality=85) #Write out as jpg
             os.remove(File) #Remove the original png file
+            print(f"Rewrote {File} as {SaveName}")
             File = SaveName #Overwrite name of file - to be referenced in next step           
 
         #Check if file is a JPG, and over 500 KB
@@ -42,4 +43,8 @@ for Folder in ImageFolders:
 
             #Resize and over-write
             IMG = IMG.resize((WidthNew,HeightNew),Image.ANTIALIAS) #Resize  
-            IMG.save(File, optimize=True, quality=85) #Rewrite out jpg                   
+            IMG.save(File, optimize=True, quality=85) #Rewrite out jpg 
+            print(f"Reduced size of {File}")                
+
+print('-------------------------')
+print('Image Processing Finished')
