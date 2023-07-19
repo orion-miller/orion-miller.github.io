@@ -7,7 +7,22 @@ The string "SKIPPNG" can be used in the filename of any PNG image that the JPG c
 
 FullFileName = os.path.realpath(__file__)
 WorkingDir = FullFileName.split('utilities')[0]
-ImagesDir = WorkingDir + "assets\\images\\"
+ImageDir = WorkingDir + "assets\\images\\"
+ImageFolders = [ f.path for f in os.scandir(ImageDir) if f.is_dir() ]
+
+for Folder in ImageFolders:
+    os.chdir(Folder) #Switch dir to image folder
+    for File in os.listdir(Folder):
+        #Check if file is a PNG, not containing the "skip string" SKIPPNG
+        if File.endswith(".png") & File.count('SKIPPNG') == 0:
+            #Convert PNG to JPG, delete the original PNG file
+            IMG = Image.open(File) #Read in as png
+            # SaveName = Folder + "\\" + File.split('.png')[0] + ".jpg"
+            SaveName = File.split('.png')[0] + ".jpg"  
+            IMG_JPG = IMG.save(SaveName) #Write out as jpg
+
+    
+
 
 FileName = ImagesDir+'2023-07-10-adding-bluetooth-to-pontiac-radio\\1.png'
 FileSize = os.path.getsize(FileName)
