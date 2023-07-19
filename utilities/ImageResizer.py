@@ -1,5 +1,6 @@
 import os
 from PIL import Image
+import math
 
 '''This function will cycle through all the images in the assets/images folder and resize them as needed to ensure fast web page performance. 
 PNG files are converted to JPG because of lower file, and then will be resized to below 500 KB if still larger than that.
@@ -21,34 +22,24 @@ for Folder in ImageFolders:
             IMG = Image.open(File) #Read in as png
             IMG = IMG.convert('RGB') #Ensure RGB format
             SaveName = File.split('.png')[0] + ".jpg"  
-            IMG.save(SaveName, optimize=True) #Write out as jpg
-            IMG.close()
-            File = SaveName #Overwrite name of file - to be referenced in next step
-            os.remove(File) #Remove the original jpg file
+            IMG.save(SaveName, optimize=True, quality=85) #Write out as jpg
+            os.remove(File) #Remove the original png file
+            File = SaveName #Overwrite name of file - to be referenced in next step           
 
         #Check if file is a JPG, and over 500 KB
-        if File.endswith(".jpg") and os.path.getsize(File) > 500000:   
+        if (File.endswith(".jpg") or File.endswith(".JPG")) and os.path.getsize(File) > 500000:   
             FileSize = os.path.getsize(File)
-            ResizeRatio = 5000000/FileSize
+            ResizeRatio = 500000/(FileSize + 10000) #Resize ratio, with a little fudge factor to make sure final file comes below 500 KB (math below is not exact)
+            IMG = Image.open(File) #Read in jpg
 
-            
+            #Calculate new dimensions       
+            NumPixels = IMG.size[0]*IMG.size[1]
+            AspectRatio = IMG.size[0]/IMG.size[1]
+            NumPixelsNew = ResizeRatio*NumPixels
+            HeightNew = math.sqrt(NumPixelsNew)/1 + AspectRatio
+            HeightNew = int(HeightNew)
+            WidthNew = int(HeightNew*AspectRatio)
 
-
-
-    
-
-
-FileName = ImagesDir+'2023-07-10-adding-bluetooth-to-pontiac-radio\\1.png'
-FileSize = os.path.getsize(FileName)
-
-#Check if file is larger than 1 MB, if so resize it
-if FileSize > 1000000: 
-    IMG = Image.open(FileName)  # My image is a 200x374 jpeg that is 102kb large
-    IMG.size  # (200, 374)
- 
-# downsize the image with an ANTIALIAS filter (gives the highest quality)
-IMG = IMG.resize((160,300),Image.ANTIALIAS)
- 
-IMG.save('path/to/save/image_scaled.jpg', quality=95)  # The saved downsized image size is 24.8kb
- 
-IMG.save('path/to/save/image_scaled_opt.jpg', optimize=True, quality=95)  # The saved downsized image size is 22.9kb
+            #Resize and over-write
+            IMG = IMG.resize((WidthNew,HeightNew),Image.ANTIALIAS) #Resize  
+            IMG.save(File, optimize=True, quality=85) #Rewrite out jpg                   
