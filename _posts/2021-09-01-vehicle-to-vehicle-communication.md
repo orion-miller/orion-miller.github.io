@@ -3,7 +3,7 @@ title:  "Vehicle-to-Vehicle (V2V) Communication Analysis"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.png
+excerpt_img_url: ../assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg
 tags: automotive programming data-analysis
 ---
 

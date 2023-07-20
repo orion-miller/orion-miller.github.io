@@ -3,7 +3,7 @@ title: "HTML, CSS, and Javascript for Web Developers"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-11-16-JHU-html-css-javascript/Course_Contents.png
+excerpt_img_url: ../assets/images/2022-11-16-JHU-html-css-javascript/Course_Contents.jpg
 tags: programming
 ---
 

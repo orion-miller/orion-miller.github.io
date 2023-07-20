@@ -3,7 +3,7 @@ title:  "Fender Jaguar Guitar Build"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933_1012.png
+excerpt_img_url: ../assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933_1012.jpg
 tags: electrical audio/music hands-on
 ---
 

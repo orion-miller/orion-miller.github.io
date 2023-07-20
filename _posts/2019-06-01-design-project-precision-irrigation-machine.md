@@ -3,7 +3,7 @@ title:  "Precision Irrigation Machine - University Design Project"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets\images\2022-04-03-design-project-precision-irrigation-machine\Capture.png
+excerpt_img_url: ../assets\images\2022-04-03-design-project-precision-irrigation-machine\Capture.jpg
 tags: mechanical electrical programming hands-on
 ---
 

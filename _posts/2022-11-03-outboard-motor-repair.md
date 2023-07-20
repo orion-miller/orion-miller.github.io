@@ -3,7 +3,7 @@ title: "Vintage Outboard Motor Repairs"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-10-14-outboard-motor-repair/79_mercarb.png
+excerpt_img_url: ../assets/images/2022-10-14-outboard-motor-repair/79_mercarb.jpg
 tags: hands-on
 ---
 

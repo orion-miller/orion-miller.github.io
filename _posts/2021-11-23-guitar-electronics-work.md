@@ -3,7 +3,7 @@ title:  "Guitar Electronics Work"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-08-14-guitar-electronics-work/IMG_0638_2.png
+excerpt_img_url: ../assets/images/2022-08-14-guitar-electronics-work/IMG_0638_2.jpg
 tags: electrical audio/music hands-on
 ---
 

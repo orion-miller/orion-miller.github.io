@@ -3,7 +3,7 @@ title:  "Residential Solar Design - University Design Project"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets\images\2022-04-03-design-project-solar-design\FIG4_5.png
+excerpt_img_url: ../assets\images\2022-04-03-design-project-solar-design\FIG4_5.jpg
 tags: data-analysis
 ---
 

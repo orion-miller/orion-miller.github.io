@@ -3,7 +3,7 @@ title:  "Carbon Fiber Rim - University Design Project"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-04-03-design-project-carbon-fibre-rim/598_677.png
+excerpt_img_url: ../assets/images/2022-04-03-design-project-carbon-fibre-rim/598_677.jpg
 tags: mechanical automotive data-analysis hands-on
 ---
 

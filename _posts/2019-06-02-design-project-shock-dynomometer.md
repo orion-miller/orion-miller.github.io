@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 tags: show-&-tell mechanical electrical automotive hands-on data-analysis
-excerpt_img_url: \assets\images\2022-04-03-design-project-shock-dynomometer\571_574.png
+excerpt_img_url: \assets\images\2022-04-03-design-project-shock-dynomometer\571_574.jpg
 tags: mechanical automotive electrical programming data-analysis hands-on
 ---
 
