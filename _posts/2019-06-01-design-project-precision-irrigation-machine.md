@@ -16,7 +16,7 @@ The device has two degrees of freedom to accomplish watering at given coordinate
 
 ![1](/assets\images\2022-04-03-design-project-precision-irrigation-machine\Bottom.jpg)
 
-![2](/assets\images\2022-04-03-design-project-precision-irrigation-machine\Capture.png)
+![2](/assets\images\2022-04-03-design-project-precision-irrigation-machine\Capture.jpg)
 
 
 

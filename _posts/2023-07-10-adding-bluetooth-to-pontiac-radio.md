@@ -34,13 +34,6 @@ The receiver board makes the bluetooth connection and transmits the audio to the
 Pull out the radio and undo the connections.
 Disassemble the radio with torx screwdrivers, and undo the connector from the CD player to the main board.
 
-Remove these
-![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1.png)
-![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1_med2.png)
-![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1_med.png)
-![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1_small.png)
-End remove here
-
 ![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/2.png)
 
 3) Strip the outer insulation off the aux wire to get the 3 strands on their own. By testing continuity its confirmed that the red wire is the left audio channel, the white wire is the right channel, and the yellow wire is ground. On the CD player connector, there will be 14 pins with one on the end being a different color (13 red and 1 blue, or 13 white and 1 black for Camaros). Solder the red wire to the first connector pin (opposite from the blue wire) and the white wire to the third connector pin. The yellow wire can then be soldered anywhere convenient on the radio chassis for the ground. Tape off the original audio wires from the CD player that have been cut. It would also be possible to maintain the use of the CD player by wiring the bluetooth and CD player channels both to a switch or button.

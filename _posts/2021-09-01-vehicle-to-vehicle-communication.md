@@ -11,7 +11,7 @@ This was a recent small freelance job. The requirement was to analyze some vehic
 
 The client was interested in the relationship of RSSI (a common measure of signal strength) vs vehicle distance to investigate the threshold within which the signal can be considered reliable. A smoothened version of the signal is made using a Savitzsky-Golay filter. A significant drop in RSSI is seen around 125 m where there is a lack of data.
 
-![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.png)
+![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg)
 *Received Signal Strength Indicator vs. Distance & Standard Deviation vs. Distance*
 
 With input from the client 300 m was chosen as the threshold of interest. The routine below was ran to find the number and ID of cars that were within 300 m for each car in the dataset:

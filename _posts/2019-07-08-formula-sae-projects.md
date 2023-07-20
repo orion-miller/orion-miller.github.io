@@ -37,25 +37,25 @@ The chance to be a member of the Gryphon Racing Formula SAE team was the highlig
 ## Design & Manufacturing Work - Examples
 ---
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Suspension_Setup.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/Suspension_Setup.jpg)
 *2019 Suspension Setup*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Bellcranks.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/Bellcranks.jpg)
 *Bellcranks*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Front_Hub.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/Front_Hub.jpg)
 *Front Hubs*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Wheel_Mold.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/Wheel_Mold.jpg)
 *Carbon Fiber Rim Mold*
 
 ![1](/assets/images/2019-07-08-formula-sae-projects/IMG_0677.JPG)
 *Carbon Fiber Rim*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/ARBs_2.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/ARBs_2.jpg)
 *Anti-Roll bars*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Steering_Rack.png)
+![1](/assets/images/2019-07-08-formula-sae-projects/Steering_Rack.jpg)
 *Custom Steering Rack*
 
 ![1](/assets/images/2019-07-08-formula-sae-projects/IMG_20180920_083341.jpg)

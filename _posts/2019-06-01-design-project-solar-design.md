@@ -13,4 +13,4 @@ This was a past group project. The course requirements were to design a solar sy
 
 System design was done on the basis of creating the most cost-effective system possible that could feasibly serve as a suitable replacement for on grid power. The locations of the panels were determined using provided solar pathfinder data. The array uses three separate strings of 240W panels with separate string inverters. The need to use power optimizers was avoided due to the relatively unshaded conditions.
 
-![1](/assets\images\2022-04-03-design-project-solar-design\FIG4_5.png)
+![1](/assets\images\2022-04-03-design-project-solar-design\FIG4_5.jpg)

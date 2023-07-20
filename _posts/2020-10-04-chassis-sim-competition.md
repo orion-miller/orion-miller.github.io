@@ -52,7 +52,7 @@ Part of the data provided to us was a text file with some basic tire trends. Inv
     fig_Friction_Circle.write_html("fig_Friction_Circle.html", auto_open=True)
     {% endhighlight %}
 
-![1](/assets/images/2020-10-04-chassis-sim-competition/AllPlots.png)
+![1](/assets/images/2020-10-04-chassis-sim-competition/AllPlots.jpg)
 
 In this data grip was mostly given as a relative force metric "FFact", probably so that the actual absolute force values could be obfuscated somewhat if this data is derived from a real source for these cars. 
 
@@ -69,12 +69,12 @@ For the traction circle plot we see a pretty broad, forgiving combined curve sha
 Lap simulation results were generated through the ChassisSim program, with a maximum limit of 100 runs to finalize the vehicle setup. Data was analyzed using Motec i2. Below for the baseline run through a left turn, we can see that the front right tire is lifting fully off the ground mid-corner (there is no FZ channel in the data but FY is clearly flatlining to 0). The fronts are also generating more slip angle with wheel, so both of these indicated the car needed to be freed up.
 
 
-![2](/assets/images/2020-10-04-chassis-sim-competition/Data1.png)
+![2](/assets/images/2020-10-04-chassis-sim-competition/Data1.jpg)
 
 With lots of trial and error in the ChassisSim program adjusting spring rates, front view suspension geometry, static cambers, etc, a sizeable gain in speed was found. Below with the white trace for the final setup, significant time is being made up in this segment through some low speed turns.
 
 
-![3](/assets/images/2020-10-04-chassis-sim-competition/Data2.png)
+![3](/assets/images/2020-10-04-chassis-sim-competition/Data2.jpg)
 
 
 

@@ -10,18 +10,18 @@ tags: hands-on
 Some examples of repair work I've done on vintage Mercury outboard motors. After having an old Mercury 20 HP on my boat that stopped running, I took an interest in learning to fix them.
 
 ## 1968 Mercury 6 HP
-![](/assets/images/2022-10-14-outboard-motor-repair/6_hp_fuelpump.png)
+![](/assets/images/2022-10-14-outboard-motor-repair/6_hp_fuelpump.jpg)
 *Replacing fuel pump diaphragm and hose*
 
-![](/assets/images/2022-10-14-outboard-motor-repair/6hp_stopswitch.png)
+![](/assets/images/2022-10-14-outboard-motor-repair/6hp_stopswitch.jpg)
 *Rewiring deteriorated stop switch circuit*
 
 ## 1979 Mercury 20 HP
-![](/assets/images/2022-10-14-outboard-motor-repair/79_mercarb.png)
+![](/assets/images/2022-10-14-outboard-motor-repair/79_mercarb.jpg)
 *Rebuilding carburetor assembly*
 
 ## 1973 Mercury 20 HP
-![](/assets/images/2022-10-14-outboard-motor-repair/73_impeller.png)
+![](/assets/images/2022-10-14-outboard-motor-repair/73_impeller.jpg)
 *Replacing water pump impeller*
 
 ## 1969 Mercury 35 HP

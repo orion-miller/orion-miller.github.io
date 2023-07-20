@@ -26,4 +26,4 @@ Work was done within the IBM Watson Studio environment for most projects, often 
 
 The general process/methodology the courses reinforced is shown below.
 
-![1](/assets/images/2022-04-09-IBM-data-science-certification/Data_Science_Methodology.png)
+![1](/assets/images/2022-04-09-IBM-data-science-certification/Data_Science_Methodology.jpg)
