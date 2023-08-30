@@ -8,7 +8,7 @@ published: false
 
 # The Importance of Tire Load Dependence
 
-A well known phenomenon of Tire Dynamics is the coefficient of friction's dependence on normal force. As normal force increases, the coefficient of friction not only decreases, but decreases in a non-linear manner. This one fact has a staggering amount of important ripple effects.  
+A well known phenomenon of Tire Dynamics is the coefficient of friction's dependence on normal force. As normal force increases, the coefficient of friction not only decreases, but decreases in a non-linear manner. This one fact leads to a staggering amount of important ripple effects.  
 
 ## Load Dependence Physics
 Friction is not just a property of the tire. To determine friction you need to udnerstand the tire-road interface.
