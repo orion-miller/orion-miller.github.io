@@ -8,7 +8,7 @@
 
   {% for tag in post.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
-  <a class="tag-link"
+  <a text-align: right
     href={{ site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
     rel="category tag">
     #{{ tag }}
