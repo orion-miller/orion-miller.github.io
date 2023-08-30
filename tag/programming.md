@@ -1,7 +1,7 @@
 ---
 layout: post_tags_page
 title: "Programming Posts"
-permalink: "/posts-programming/"
+permalink: "/tags/programming/"
 tag: programming
 ---
 

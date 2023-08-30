@@ -1,7 +1,7 @@
 ---
 layout: post_tags_page
 title: "Electrical Posts"
-permalink: "/posts-electrical/"
+permalink: "/tags/electrical/"
 tag: electrical
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post_tags_page
 title: "Data-Analysis Posts"
-permalink: "/posts-data-analysis/"
+permalink: "/tags/data-analysis/"
 tag: data-analysis
 ---
 

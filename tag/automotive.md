@@ -1,7 +1,7 @@
 ---
 layout: post_tags_page
 title: "Automotive Posts"
-permalink: "/posts-automotive/"
+permalink: "/tags/automotive/"
 tag: automotive
 ---
 
