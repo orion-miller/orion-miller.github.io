@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2022-08-11-fender-jaguar-build/IMG_20140912_125933_1012.jpg
-tags: electrical audio/music hands-on
+tags: electrical audio-music hands-on
 ---
 
 In 2014 I had been playing guitar for a couple years but had not found a guitar that really felt right to me. I became obsessed with the Fender Jaguar because I had seen some of my favorite players use one and I loved the way it sounded and looked. I decided to build one because I wanted to have an exact color and there weren't any around me.
