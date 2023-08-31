@@ -3,13 +3,10 @@ layout: default
 ---
 
 <article>
-  {% include meta.html post=page %}
+  {% include meta_post.html page=page %}
   {{ content }}
   {% if page.comments == true %}
     <hr>
-    <!-- {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %} -->
-    <!-- {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %} -->
-
     <div id="disqus_thread"></div>
     <script>
         /**
