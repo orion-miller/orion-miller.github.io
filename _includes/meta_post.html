@@ -3,7 +3,7 @@
 
   {% for tag in page.tags %}
   {% assign tag_slug = tag | slugify: "raw" %}
-  <a color: $link-color href={{ site.baseurl | append: "/posts-" | append: tag_slug | append: "/" }}
+  <a style="color: #68f;"> href={{ site.baseurl | append: "/posts-" | append: tag_slug | append: "/" }}
     rel="category tag">#{{ tag }}</a>
   {% endfor %}
 
