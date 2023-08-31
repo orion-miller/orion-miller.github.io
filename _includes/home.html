@@ -1,32 +1,31 @@
 <article>
-  <div><a href="https://orion-miller.github.io/archive/">Switch to archive view</a></div>   
-  <!-- <h2>Tags</h2>
-  <span class="more"><a href="https://orion-miller.github.io/tags/mechanical/">mechanical</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/automotive/">automotive</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/electrical/">electrical</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/programming/">programming</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/data-analysis/">data-analysis</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/audio-music/">audio/music</a></span>
-  <span class="more"><a href="https://orion-miller.github.io/tags/hands-on/">hands-on</a></span>   -->
+  <div><a href="https://orion-miller.github.io/archive/">Switch to archive view</a></div>
 </article>
+
+
+
+
+
 
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
-  <article>
-    {% include meta.html post=post preview=true %}
-    {% if post.excerpt_img_url %}  <!--check if an image has been assigned to show, otherwise display regular excerpt-->
-      <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
-    {% else %}      
-      {{ post.excerpt }}
-    {% endif %}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
+<article>
+  {% include meta.html post=post preview=true %}
+  {% if post.excerpt_img_url %} <!--check if an image has been assigned to show, otherwise display regular excerpt-->
+  <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
+  {% else %}
+  {{ post.excerpt }}
+  {% endif %}
+  <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+</article>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-  <footer>
-    {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« Newer Posts</a>{% else %}<span></span>{% endif %}
-    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older Posts »</a>{% else %}<span></span>{% endif %}
-  </footer>
+<footer>
+  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« Newer Posts</a>{% else
+  %}<span></span>{% endif %}
+  <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older Posts »</a>{% else
+  %}<span></span>{% endif %}
+</footer>
 {% endif %}
