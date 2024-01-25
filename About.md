@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-<img src="assets\images\About\self.jpg" alt="self" width="300"/>
+<img src="\assets\images\About\self.jpg" alt="self" width="300"/>
 
 I'm a Mechanical Engineer currently working in motorsports. My main focuses are tire engineering, vehicle data processing, and vehicle simulation, working within NASCAR and Sportscar programs. My work has included experience with lab tire testing, track testing, DiL simulation, mathematical modeling, and software development. 
 
