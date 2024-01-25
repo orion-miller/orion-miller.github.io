@@ -3,7 +3,7 @@ title:  "Gryphon Racing Formula SAE Projects"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2019-07-08-formula-sae-projects/thumbnail.jpg
+excerpt_img_url: ../assets/images/2022-11-07-formula-sae-projects/thumbnail.jpg
 tags: mechanical automotive programming data-analysis hands-on
 ---
 
@@ -12,7 +12,7 @@ tags: mechanical automotive programming data-analysis hands-on
 
 The chance to be a member of the Gryphon Racing Formula SAE team was the highlight of my time at the University of Guelph. The role helped me to appreciate the complexity of real-world systems, the necessity to make data driven decisions while remembering the limitations of my knowledge and methods, and the need for validation of results and continual reassessment. The race team was a way to gain practical experience across many stages of the engineering process, such as systems analysis, mechanical design, CAD, structural analysis and FEA, and manufacturing.
 
-![Poster](/assets/images/2019-07-08-formula-sae-projects/thumbnail.jpg)
+![Poster](/assets/images/2022-11-07-formula-sae-projects/thumbnail.jpg)
 
 ---
 
@@ -37,27 +37,27 @@ The chance to be a member of the Gryphon Racing Formula SAE team was the highlig
 ## Design & Manufacturing Work - Examples
 ---
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Suspension_Setup.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/Suspension_Setup.jpg)
 *2019 Suspension Setup*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Bellcranks.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/Bellcranks.jpg)
 *Bellcranks*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Front_Hub.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/Front_Hub.jpg)
 *Front Hubs*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Wheel_Mold.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/Wheel_Mold.jpg)
 *Carbon Fiber Rim Mold*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/IMG_0677.JPG)
+![1](/assets/images/2022-11-07-formula-sae-projects/IMG_0677.JPG)
 *Carbon Fiber Rim*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/ARBs_2.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/ARBs_2.jpg)
 *Anti-Roll bars*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/Steering_Rack.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/Steering_Rack.jpg)
 *Custom Steering Rack*
 
-![1](/assets/images/2019-07-08-formula-sae-projects/IMG_20180920_083341.jpg)
+![1](/assets/images/2022-11-07-formula-sae-projects/IMG_20180920_083341.jpg)
 *Steering Column*
 

@@ -3,7 +3,7 @@ title:  "Vehicle-to-Vehicle (V2V) Communication Analysis"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg
+excerpt_img_url: ../assets/images/2022-11-14-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg
 tags: automotive programming data-analysis
 ---
 
@@ -11,7 +11,7 @@ This was a recent small freelance job. The requirement was to analyze some vehic
 
 The client was interested in the relationship of RSSI (a common measure of signal strength) vs vehicle distance to investigate the threshold within which the signal can be considered reliable. A smoothened version of the signal is made using a Savitzsky-Golay filter. A significant drop in RSSI is seen around 125 m where there is a lack of data.
 
-![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg)
+![](/assets/images/2022-11-14-vehicle-to-vehicle-communication/Sample-RSSI_Std_Dev.jpg)
 *Received Signal Strength Indicator vs. Distance & Standard Deviation vs. Distance*
 
 With input from the client 300 m was chosen as the threshold of interest. The routine below was ran to find the number and ID of cars that were within 300 m for each car in the dataset:
@@ -66,7 +66,7 @@ With input from the client 300 m was chosen as the threshold of interest. The ro
 
 From this analysis further plots were made. First, the distribution for number of vehicles within 300 m, to show how many vehicles are commonly within range.
 
-![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Distribution_of_Vehicles_Within_300m-Histogram.jpg)
+![](/assets/images/2022-11-14-vehicle-to-vehicle-communication/Distribution_of_Vehicles_Within_300m-Histogram.jpg)
 *Histogram Showing Number of Vehicles Within Range*
 
 Second, a geographic map with the position of each car colored by how many others are within range. It can be seen that cars in the condensed streets around the middle of the map have the most other cars in range:
@@ -114,7 +114,7 @@ Second, a geographic map with the position of each car colored by how many other
     CB.Color = ForeColor;
     {% endhighlight %}
 
-![](/assets/images/2021-09-01-vehicle-to-vehicle-communication/Vehicle_X-Y_Positions.jpg)
+![](/assets/images/2022-11-14-vehicle-to-vehicle-communication/Vehicle_X-Y_Positions.jpg)
 *Geographic Colormap for Number of Vehicles Within Range*
 
 

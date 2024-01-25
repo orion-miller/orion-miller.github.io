@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 tags: show-&-tell mechanical electrical automotive hands-on data-analysis
-excerpt_img_url: \assets\images\2022-04-03-design-project-shock-dynomometer\571_574.jpg
+excerpt_img_url: \assets\images\2022-11-06-design-project-shock-dynomometer\571_574.jpg
 tags: mechanical automotive electrical programming data-analysis hands-on
 ---
 
@@ -26,6 +26,6 @@ The test results can be used to investigate the operating behavior of the damper
 
 By calculating these parameters under varying test conditions, the dampers full range of capabilities can be understood. The intended end result is that a reasonable initial setup can be determined to meet given vehicle performance requirements. Further tuning of the equipment can then be done based on actual on-track vehicle testing.
 
-![Test](\assets\images\2022-04-03-design-project-shock-dynomometer\571_574.jpg)
+![Test](\assets\images\2022-11-06-design-project-shock-dynomometer\571_574.jpg)
 
 

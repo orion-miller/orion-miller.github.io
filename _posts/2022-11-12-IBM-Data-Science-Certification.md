@@ -3,7 +3,7 @@ title:  "IBM Data Science Professional Certification"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2022-04-09-IBM-data-science-certification/Data_Science_Methodology.jpg
+excerpt_img_url: ../assets/images/2022-11-12-IBM-Data-Science-Certification/Data_Science_Methodology.jpg
 tags: programming data-analysis
 ---
 
@@ -26,4 +26,4 @@ Work was done within the IBM Watson Studio environment for most projects, often 
 
 The general process/methodology the courses reinforced is shown below.
 
-![1](/assets/images/2022-04-09-IBM-data-science-certification/Data_Science_Methodology.jpg)
+![1](/assets/images/2022-11-12-IBM-Data-Science-Certification/Data_Science_Methodology.jpg)
