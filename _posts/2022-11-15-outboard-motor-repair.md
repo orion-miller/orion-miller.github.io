@@ -26,7 +26,7 @@ Some examples of repair work I've done on vintage Mercury outboard motors. After
 
 ## 1969 Mercury 35 HP
 ![](/assets/images/2022-11-15-outboard-motor-repair/DSC_0227.JPG)
-*Repainting lower unit* -->
+*Repainting lower unit*
 
 ## 1976 Evinrude 20 HP
 ![](/assets/images/2022-11-15-outboard-motor-repair/DSC_0216.JPG)
