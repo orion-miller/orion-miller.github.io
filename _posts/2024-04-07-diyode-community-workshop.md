@@ -14,11 +14,9 @@ At Diyode I did some hands-on projects and helped to improve and maintain the sh
 
 ![](/assets/images/2024-04-07-diyode-community-workshop/Boat_seat.jpg)
 
-<video width="640" height="480" controls>
+<video controls>
   <source src="/assets/images/2024-04-07-diyode-community-workshop/MOV_0187.mp4" type="video/mp4">
 </video>
-
-![](/assets/images/2024-04-07-diyode-community-workshop/MOV_0187.mp4)
 
 *Building a custom boat seat*
 
