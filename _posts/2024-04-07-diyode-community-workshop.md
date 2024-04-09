@@ -18,6 +18,8 @@ At Diyode I did some hands-on projects and helped to improve and maintain the sh
   <source src="/assets/images/2024-04-07-diyode-community-workshop/MOV_0187.mp4" type="video/mp4">
 </video>
 
+![](/assets/images/2024-04-07-diyode-community-workshop/MOV_0187.mp4)
+
 *Building a custom boat seat*
 
 ![](/assets/images/2024-04-07-diyode-community-workshop/Amp.jpg)
