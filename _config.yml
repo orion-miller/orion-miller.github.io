@@ -15,7 +15,7 @@ minimal: false             # use a dark header
 paginate: 10 # number of items per page in Posts section
 highlighter: rouge #code syntax highlighter
 
-#proerty for main url - to try and force links to be https
+#property for main url - to try and force links to be https
 url: https://orion-miller.github.io
 
 # Nav Bar Menu
