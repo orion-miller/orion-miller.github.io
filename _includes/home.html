@@ -8,9 +8,10 @@
   {% include meta.html post=post preview=true %}
   {% if post.excerpt_img_url %} <!--check if an image has been assigned to show, otherwise display regular excerpt-->
   <img src="{{ post.excerpt_img_url }}" alt="Excerpt Image">
-  {% else %}
-  {{ post.excerpt }}
+  <!-- {% else %}
+  {{ post.excerpt }} -->
   {% endif %}
+  {{ post.content | strip_html | truncatewords: 30 }}
   <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
 </article>
 {% endfor %}
