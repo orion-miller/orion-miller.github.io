@@ -7,8 +7,6 @@ excerpt_img_url: ../assets/images/2022-11-12-IBM-Data-Science-Certification/Data
 tags: programming data-analysis
 ---
 
-[GitHub Repo](https://github.com/orion-miller/IBM-Data-Science)
-
 My experience doing tire engineering at Pratt Miller found me doing heavy data analysis of tire test data and mathematical modeling of tire behavior. I had a co-worker who had a very strong data science background who made interesting use of Python to represent information. I wanted to learn about more about data analysis through some formal instruction, and more about Python, because I used primarily MATLAB but was interested in Python's functionality and open source environment.
 
 Work was done within the IBM Watson Studio environment for most projects, often using Python Jupyter Notebooks. The different tasks required use of various Python toolboxes such as Pandas, Numpy, SciKitLearn, MatPlotLib, Seaborn, Folium, Plotly, etc. The certification included 10 courses:
@@ -27,3 +25,5 @@ Work was done within the IBM Watson Studio environment for most projects, often 
 The general process/methodology the courses reinforced is shown below.
 
 ![1](/assets/images/2022-11-12-IBM-Data-Science-Certification/Data_Science_Methodology.jpg)
+
+[GitHub Repo](https://github.com/orion-miller/IBM-Data-Science)
