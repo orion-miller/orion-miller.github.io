@@ -11,7 +11,7 @@
   <!-- {% else %}
   {{ post.excerpt }} -->
   {% endif %}
-  <p>{{ post.excerpt | truncatewords: 30 }}</p>
+  <div>{{ post.content | strip_html | truncatewords:30 }}</div>
   <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
 </article>
 {% endfor %}
