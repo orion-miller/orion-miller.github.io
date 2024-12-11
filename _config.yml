@@ -3,7 +3,7 @@ author: "Orion Miller" #name appearing at top of header
 description: "© 2022-2024 Orion Miller" #text for footer
 permalink: /:title/
 lang: "en"
-excerpt_separator: <!-- excerpt-end -->
+# excerpt_separator: <!-- excerpt-end -->
 date_format: "%B %d, %Y"
 
 # Layout
