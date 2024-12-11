@@ -8,8 +8,6 @@ excerpt_img_url: \assets\images\2022-11-06-design-project-shock-dynomometer\571_
 tags: mechanical automotive electrical programming data-analysis hands-on
 ---
 
-[GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Shock_Dynomometer)
-
 This was a past group project. The course requirements for the project were broad; any electromechanical system which uses a relatively simple design and includes an in-depth modeling component. The group decided to build a custom damper dynamometer in cooperation with the Gryphon Racing FSAE team. My focuses included mechanical design, manufacturing, and damper modeling.
 
 ## Technical Details
@@ -27,5 +25,7 @@ The test results can be used to investigate the operating behavior of the damper
 By calculating these parameters under varying test conditions, the dampers full range of capabilities can be understood. The intended end result is that a reasonable initial setup can be determined to meet given vehicle performance requirements. Further tuning of the equipment can then be done based on actual on-track vehicle testing.
 
 ![Test](\assets\images\2022-11-06-design-project-shock-dynomometer\571_574.jpg)
+
+[GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Shock_Dynomometer)
 
 

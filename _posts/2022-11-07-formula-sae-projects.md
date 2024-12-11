@@ -7,9 +7,6 @@ excerpt_img_url: ../assets/images/2022-11-07-formula-sae-projects/thumbnail.jpg
 tags: mechanical automotive programming data-analysis hands-on
 ---
 
-[GitHub Repo](https://github.com/orion-miller/Gryphon-Racing-Formula-SAE)
-
-
 The chance to be a member of the Gryphon Racing Formula SAE team was the highlight of my time at the University of Guelph. The role helped me to appreciate the complexity of real-world systems, the necessity to make data driven decisions while remembering the limitations of my knowledge and methods, and the need for validation of results and continual reassessment. The race team was a way to gain practical experience across many stages of the engineering process, such as systems analysis, mechanical design, CAD, structural analysis and FEA, and manufacturing.
 
 ![Poster](/assets/images/2022-11-07-formula-sae-projects/thumbnail.jpg)
@@ -61,3 +58,4 @@ The chance to be a member of the Gryphon Racing Formula SAE team was the highlig
 ![1](/assets/images/2022-11-07-formula-sae-projects/IMG_20180920_083341.jpg)
 *Steering Column*
 
+[GitHub Repo](https://github.com/orion-miller/Gryphon-Racing-Formula-SAE)

@@ -7,8 +7,6 @@ excerpt_img_url: ../assets\images\2022-11-02-design-project-precision-irrigation
 tags: mechanical electrical programming hands-on
 ---
 
-[GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Precision_Irrigation_Machine)
-
 This was a 2017 group project for ENGG 3280 Machine Design. The course requirements were to create a useful new device within the fields of agriculture or food processing. The problem identified was the relative inefficiency of small hobby farms in comparison to mass produced monoculture crops, which are detrimental to soil health in the long term. The vision for this design was to develop a small-scale proof of concept for an automated watering device that could accommodate different watering needs on a plant to plant level. By implementing this irrigation machine, small scale hobby farms could become more efficient. My focuses included housing design, component selection, stress analysis, and manufacturing.
 
 ## Technical Details
@@ -17,6 +15,8 @@ The device has two degrees of freedom to accomplish watering at given coordinate
 ![1](/assets\images\2022-11-02-design-project-precision-irrigation-machine\Bottom.jpg)
 
 ![2](/assets\images\2022-11-02-design-project-precision-irrigation-machine\Capture.jpg)
+
+[GitHub Repo](https://github.com/orion-miller/University-of-Guelph-Projects/tree/main/Design_Project-Precision_Irrigation_Machine)
 
 
 
