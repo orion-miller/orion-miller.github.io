@@ -19,7 +19,7 @@ This details how to build an AB/Y box. For 2 different outputs A and B, this all
 |3|2x DPDT rocker switches|
 |4|Electrical wire|
 
-[Digikey](https://www.digikey.com/) is a good resource for parts! 
+ <a href="https://www.digikey.com/" target="_blank"> Digikey </a> is a good resource for parts! 
 
 |#|Equipment List|
 |-|-----------|
