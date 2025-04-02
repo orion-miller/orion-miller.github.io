@@ -57,7 +57,7 @@ Because of the way the switches contacts move, the wiring may appear "reversed",
 
 ![](/assets/images/2025-03-24-building-a-guitar-aby-box/20250401_045523795_iOS.jpg)
 
-On the outside of the enclosure I also crudely drew the signal paths, and added paint to the ends of the rockers, to give a clean visual indicator of the switch positions. Most switches use footswitches and LED's, where here with painted rockers we get something thats still operated by foot, still indicates status, but doesn't need to use another spot on the power supply!
+On the outside of the enclosure I also drew the rough signal paths, and added paint to the ends of the rockers, to give a clean visual indicator of the switch positions. Most AB boxes use footswitches and LED's, where here with painted rockers we get something thats still operated by foot, still indicates status, but doesn't need to use another spot on the power supply!
 
 ![](/assets/images/2025-03-24-building-a-guitar-aby-box/20250402_045538076_iOS.jpg)
 
