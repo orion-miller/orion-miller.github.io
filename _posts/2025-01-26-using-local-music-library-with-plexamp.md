@@ -5,7 +5,7 @@ layout: post
 categories: media
 excerpt_img_url: ../assets/images/2025-01-26-using-local-music-library-with-plexamp/Plexamp.jpg
 comments: true
-tags: audio-music programming
+tags: article audio-music programming
 ---
 
 Instead of using streaming services you might prefer to keep your own music library. This way you don't need to have subscriptions, and can maintain your own files including live, obscure, or unique tracks you can't find streaming. A nice way to do this is with [Plexamp](https://www.plex.tv/plexamp/), a simple and great looking music player. This also allows you to self-host and listen across multiple devices.

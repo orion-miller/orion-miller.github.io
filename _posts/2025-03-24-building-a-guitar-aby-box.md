@@ -5,7 +5,7 @@ layout: post
 categories: media
 excerpt_img_url: ../assets/images/2025-03-24-building-a-guitar-aby-box/20250324_082947048_iOS.jpg
 comments: true
-tags: audio-music hands-on
+tags: article audio-music hands-on
 ---
 
 This details how to build an AB/Y box. For 2 different outputs A and B, this allows you to send to either, or both, by stepping on a couple rocker switches. In my case this is for routing signal to 2 different guitar amps to change between sounds on the fly. This design requires no external power and is very simple to build.

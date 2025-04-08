@@ -5,7 +5,7 @@ layout: post
 categories: media
 excerpt_img_url: ../assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1.jpg
 comments: true
-tags: hands-on automotive electrical
+tags: article hands-on automotive electrical audio-music
 ---
 
 ![](/assets/images/2023-07-10-adding-bluetooth-to-pontiac-radio/1.jpg)
