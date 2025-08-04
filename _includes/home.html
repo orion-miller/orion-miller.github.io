@@ -36,11 +36,6 @@
 {% endfor %}
 </div>
 
-<hr>
-<article>
-  <div><a href="https://orion-miller.github.io/archive/">Switch to archive view</a></div>
-</article>
-
 {% if paginator.total_pages > 1 %}
 <footer>
   {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« Newer Posts</a>{% else
@@ -50,3 +45,7 @@
   %}<span></span>{% endif %}
 </footer>
 {% endif %}
+
+<article>
+  <div><a href="https://orion-miller.github.io/archive/">Switch to archive view</a></div>
+</article>
