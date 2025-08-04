@@ -8,7 +8,6 @@ comments: true
 tags: automotive data-analysis
 ---
 
-# rFactor2-Motec-Workspace
 
 I recently set up a Motec i2 Pro worskpace for viewing rFactor 2 vehicle telemetry data [here](https://github.com/orion-miller/RFactor2-Motec-Workspace)
 
