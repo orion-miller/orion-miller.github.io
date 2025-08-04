@@ -7,11 +7,20 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
+  padding: 2rem 1rem;
 }
 @media (min-width: 800px) {
   .posts-grid {
     grid-template-columns: 1fr 1fr;
+    padding: 2rem 2rem;
   }
+}
+.posts-grid article {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 </style>
 {%- assign posts = paginator.posts | default: site.posts -%}
