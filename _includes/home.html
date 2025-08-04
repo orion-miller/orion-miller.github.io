@@ -2,7 +2,20 @@
   <div><a href="https://orion-miller.github.io/archive/">Switch to archive view</a></div>
 </article>
 
+<style>
+.posts-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 800px) {
+  .posts-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+</style>
 {%- assign posts = paginator.posts | default: site.posts -%}
+<div class="posts-grid">
 {% for post in posts %}
 <article>
   {% include meta.html post=post preview=true %}
@@ -16,6 +29,7 @@
   <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
 </article>
 {% endfor %}
+</div>
 
 {% if paginator.total_pages > 1 %}
 <footer>
