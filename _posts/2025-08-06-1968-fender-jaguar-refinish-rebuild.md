@@ -4,6 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2025-08-06-1968-fender-jaguar-refinish-rebuild/1.jpg
+comments: true
 tags: electrical audio-music hands-on
 ---
 
