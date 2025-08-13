@@ -39,7 +39,7 @@ I decided on doing the following:
 *Refinishing*
 
 ![x](/assets/images/2025-08-06-1968-fender-jaguar-refinish-rebuild/8.jpg)
-<video width="100%" height="auto" controls>
+<video width="50%" height="auto" controls>
 <source src="/assets/images/2025-08-06-1968-fender-jaguar-refinish-rebuild/IMG_2048.MOV" type="video/quicktime">
 </video>
 
