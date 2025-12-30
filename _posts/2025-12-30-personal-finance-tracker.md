@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: media
 excerpt_img_url: ../assets/images/2025-12-30-personal-finance-tracker/Screenshot1.jpg
-comments: true
+comments: false
 tags: programming data-analysis
 ---
 
