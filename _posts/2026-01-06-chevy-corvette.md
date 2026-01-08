@@ -3,7 +3,7 @@ title:  "2001 Chevy Corvette"
 mathjax: true
 layout: post
 categories: media
-excerpt_img_url: ../assets/images/2025-12-30-personal-finance-tracker/Screenshot1.jpg
+excerpt_img_url: ../assets/images/2026-01-06-chevy-corvette/20250824_164601678_iOS.jpg
 comments: false
 tags: hands-on automotive
 ---
@@ -14,7 +14,7 @@ Having an affinity for Corvette's was excited last year to pick up an older C5! 
 *Upgrading radio and adding USB outlet*
 
 ![x](/assets/images/2026-01-06-chevy-corvette/EBCM.jpg)
-*Re-soldering bad solder joints on EBCM to fix ABS/TCS system issue*
+*Re-soldering bad solder joints on EBCM to fix ABS/TCS issue*
 
 ![x](/assets/images/2026-01-06-chevy-corvette/Tow_Hook.jpg)
 *Fabricating a tow hook*
