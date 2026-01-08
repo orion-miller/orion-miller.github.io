@@ -22,7 +22,7 @@ Having an affinity for Corvette's was excited last year to pick up an older C5! 
 ![x](/assets/images/2026-01-06-chevy-corvette/20250824_164601678_iOS.jpg)
 *Track day at Buttonwillow Raceway*
 
-<video width="20%" height="auto" controls>
+<video width="35%" height="auto" controls>
 <source src="/assets/images/2026-01-06-chevy-corvette/20250824_163759000_iOS.MOV" type="video/quicktime">
 </video>
 
