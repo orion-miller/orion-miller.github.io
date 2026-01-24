@@ -8,7 +8,7 @@ comments: false
 tags: hands-on automotive
 ---
 
-Having an affinity for Corvette's was excited last year to pick up an older C5! This was one was really clean, and importantly blue. I think C5's are really clean looking and exciting cars for what they can be had for. Have had fun giving the car some TLC.
+Having an affinity for Corvette's was excited last year to pick up an older C5! This one was really clean, and importantly blue. I think C5's are really clean looking and exciting cars for what they can be had for. Have had fun giving the car some TLC.
 
 ![x](/assets/images/2026-01-06-chevy-corvette/radio.jpg)
 *Upgrading radio and adding USB outlet*
